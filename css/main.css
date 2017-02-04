@@ -71,6 +71,11 @@ margin-left: -15px;
 .navbar-default {
 border-color: transparent;
 background-color: #dadada;
+
+}
+
+.nav li {
+	font-size: 18px;
 }
 
 
@@ -244,7 +249,7 @@ a:after {
 
 #headerwrap h1 {
 	color:#fff;
-	margin-top: 100px;
+	margin-top: 120px;
 	padding-bottom: 36px;
 	letter-spacing: 3px;
 	font-size: 60px;
@@ -368,7 +373,7 @@ a:after {
 }
 
 .divider3 {
-	background-image: url('../img/bg/divider3.jpg');
+	background-image: url('../img/bg/div.jpg');
 	margin-top: 0px;
 }
 
