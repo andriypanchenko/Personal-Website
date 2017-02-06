@@ -52,7 +52,7 @@ body {
 
 .row {
 margin-right: 0px;
-margin-left: -15px;
+margin-left: 0px;
 }
 
 .modal-header {
@@ -227,7 +227,7 @@ a:after {
 /* Wrap Sections */
 
 #headerwrap {
-	background: url(../img/header_bg.jpg) no-repeat center top;
+	background: url(../img/header-bg.jpg) no-repeat center top;
 	margin-top: -50px;
 	padding-top:120px;
 	text-align:center;
@@ -249,23 +249,23 @@ a:after {
 
 #headerwrap h1 {
 	color:#fff;
-	margin-top: 120px;
+	margin-top: 100px;
 	padding-bottom: 36px;
 	letter-spacing: 3px;
 	font-size: 60px;
 	font-weight: normal;
-	text-shadow: 2px 2px 2px #000;
+	text-shadow: 2px 2px 15px #161616, -2px -2px 15px #161616, -2px 2px 15px #161616, 2px -2px 15px #161616;
 }
 
 #headerwrap p {
 	color:#ffffff;
-	font-size: 40px;
+	font-size: 46px;
 	font-weight: 400;
 	text-align: center;
 	line-height: 40px;
 	letter-spacing: 3px;
 	margin-left: 15px;
-	text-shadow: 1px 1px 1px #000;
+	text-shadow: 2px 2px 8px #000, -2px -2px 8px #000, -2px 2px 8px #000, 2px -2px 8px #000;
 }
 
 #greywrap {
@@ -372,13 +372,13 @@ a:after {
 	background-image: url('../img/bg/divider1.jpg')
 }
 
-.divider3 {
-	background-image: url('../img/bg/div.jpg');
+.divider2 {
+	background-image: url('../img/bg/divider2.jpg');
 	margin-top: 0px;
 }
 
-.divider6 {
-	background-image: url('../img/bg/divider6.jpg')
+.divider3 {
+	background-image: url('../img/bg/divider3.jpg')
 }
 
 
